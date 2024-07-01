@@ -27,8 +27,6 @@ layout: default
 
 
 
-
-
 ### Contact 
 
 s2420685[at]u.tsukuba.ac.jp
