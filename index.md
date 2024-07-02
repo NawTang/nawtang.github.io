@@ -26,4 +26,4 @@ layout: default
 
 ### Contact 
 
-s2420685[at]u.tsukuba.ac.jp
+tian[at]iplab.cs.tsukuba.ac.jp
