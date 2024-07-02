@@ -8,10 +8,15 @@ layout: default
 
 ## Academic Experience
 
-- Apr 2024 -  
-  - University of Tsukuba *(Ibaraki, Japan)*
+- **Apr 2024 -**  
+  
+  - **University of Tsukuba *(Ibaraki, Japan)***
+  
+    
+  
 - Jul 2022 – Mar 2024
   - Human Academy Japanese Language School *(Tokyo, Japan)*
+  
 - Sep 2018 – Jun 2022
   - Anhui Agricultural University *(Hefei, China)*
 
